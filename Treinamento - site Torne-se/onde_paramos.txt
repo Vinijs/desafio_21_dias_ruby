@@ -1,1 +1,1 @@
-Paramos na aula 05 - TRATAMENTO DE STRINGS
+Paramos na aula 06 - OPERADORES LÓGICOS
