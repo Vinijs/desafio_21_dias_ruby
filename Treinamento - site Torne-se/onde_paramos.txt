@@ -1,1 +1,1 @@
-Paramos na aula 24 - METAPROGRAMMING - MISSINGS
+Paramos na aula 24 - INSTALANDO RAILS
