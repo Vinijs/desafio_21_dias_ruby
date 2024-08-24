@@ -1,1 +1,1 @@
-Paramos na aula 24 - INSTALANDO RAILS
+Paramos na aula 26 - RAILS GENERATORS
